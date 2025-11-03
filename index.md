@@ -20,6 +20,7 @@ Ukrainian
 - [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58861088900)
 - [Google Scholar](https://scholar.google.com/citations?hl=uk&user=GwBTM6YAAAAJ)
 - [ResearchGate](https://www.researchgate.net/profile/Anastasiia-Breskina)
+- [LinkedIn](https://www.linkedin.com/in/anastasiia-breskina)
 
 ## Interesting and useful resources
 - [Hugging Face](https://huggingface.co/)
