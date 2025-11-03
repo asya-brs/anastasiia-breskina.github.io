@@ -1,7 +1,7 @@
 # Publications
 English
 - [Emostudent: a dataset for complex student behaviour
-evaluation](https://doi.org/10.15276/opu.1.67.2023.07)
+evaluation](https://pratsi.op.edu.ua/index.php/pratsi/article/view/26/26)
 - [Development of an automated online proctoring system](https://doi.org/10.15276/hait.06.2023.11)
 - [Evaluation metrics systematization for 2D human
 poses analysis models](https://doi.org/10.15276/hait.06.2023.2)
