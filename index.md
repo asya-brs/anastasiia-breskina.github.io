@@ -1,5 +1,14 @@
-# Publications
-English
+# Anastasiia Breskina
+
+**Research Interests:** CV • ML • Human-Centered AI • Synthetic Data Generation • Educational AI & Proctoring Systems
+
+[Google Scholar](https://scholar.google.com/citations?user=GwBTM6YAAAAJ) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58861088900) | [ORCID](https://orcid.org/0000-0002-3165-6788) | [GitHub](https://github.com/asya-brs) | [LinkedIn](https://www.linkedin.com/in/anastasiia-breskina) | [📧](anastasia.breskina@gmail.com)
+
+---
+
+## Publications
+
+### English
 - [Emostudent: a dataset for complex student behaviour
 evaluation](https://pratsi.op.edu.ua/index.php/pratsi/article/view/26/26)
 - [Development of an automated online proctoring system](https://doi.org/10.15276/hait.06.2023.11)
@@ -12,17 +21,55 @@ a Dataset to Analyse Students' Emotional Well-Being](https://doi.org/10.25673/11
 - [Models of information analysis in
 automated online proctoring systems](https://link.springer.com/chapter/10.1007/978-3-031-70959-3_13)
 
-Ukrainian
+### Ukrainian
 - [Rozrobka avtomatyzovanoi systemy onlain proktorynhu [Development of an automated online proctoring system]](https://doi.org/10.15276/imms.v13.no1-2.180)
 
-# Links
-- [ORCID](https://orcid.org/0000-0002-3165-6788)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58861088900)
-- [Google Scholar](https://scholar.google.com/citations?hl=uk&user=GwBTM6YAAAAJ)
-- [ResearchGate](https://www.researchgate.net/profile/Anastasiia-Breskina)
-- [LinkedIn](https://www.linkedin.com/in/anastasiia-breskina)
+---
 
-## Interesting and useful resources
-- [Hugging Face](https://huggingface.co/)
-- [The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)
-- [Exposing.ai](https://exposing.ai/)
+## Education
+
+### Master's degree
+**Odesa National Polytechnic University** | Odesa, Ukraine | *2013 - 2015*
+- Specialisation: Information control systems and technologies
+- Relevant Coursework: Machine Learning, Computer Vision
+
+### Bachelor's degree
+**Odesa National Polytechnic University** | Odesa, Ukraine | *2009 - 2013*
+- Specialisation: Information control systems
+- Relevant Coursework: Machine Learning, Computer Vision
+
+---
+
+## Professional Experience
+
+### Associate Software Engineer
+**Hewlett Packard Enterprise** | Odesa, Ukraine | *December 2015 - March 2017*
+    
+HPE ALM (former QC)
+    
+* Implementation of different user stories related to REST API, Robot, SSO and others. UI enhancements. Test automation. CI configuration.
+* Key Technologies: Java, JavaScript, Spring, JUnit, MSSQL, Oracle, Maven, Git, Jenkins.
+
+
+### Junior Java Developer
+**Luxoft** | Odesa, Ukraine | *August 2013 - January 2015*
+
+Navigation digital maps conversion & preprocessing system
+
+* Developing a desktop SWT application to view the resulting 3D maps, their verification, route calculation, monitor the compilation process etc.
+* Key Technologies: Java, OSGi (Equinox), Ant, Maven, Perforce, SQLite, PostgreSQL, OpenGL, GLSL, JOGL, Jenkins, Hudson; JIRA.
+
+Navigation digital maps displaying system on Android (R&D project).
+* Developing a Android application for 3D maps rendering.
+* Key Technologies: Java, Android SDK, SQLite, OpenGL ES, GLSL, Git, JIRA.
+
+### Lab Assistant
+**Odesa National Polytechnic University, Luxoft, laboratory “IT-Incubator” | Odesa, Ukraine** | *October 2011 - August 2013*
+
+CV-Car Project
+* Kinect-driven car implementation; colored marker tracking system.
+* Key Technologies: C++, Qt, OpenCV.
+
+JOSM(Java OpenStreetMap Editor) plugin
+* Road width determination based on a sattelite photos.
+* Key Technologies: Java, Ant.
