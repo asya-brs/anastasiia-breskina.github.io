@@ -1,6 +1,6 @@
+# Build Settings
 lsi: false
 safe: true
-source: [your repo's top level directory]
 incremental: false
 highlighter: rouge
 gist:
@@ -8,6 +8,30 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+# Theme
 theme: jekyll-theme-minimal
-title: Anastasiia's homepage
-description: Hi, my name is Anastasiia and here I write about my academic work.
+
+# Site Information
+title: Anastasiia Breskina
+tagline: Computer Vision & Machine Learning Researcher
+description: |  
+  **Research Interests:** Computer Vision • Machine Learning • Human-Centered AI • Synthetic Data Generation • Educational AI & Proctoring Systems
+
+# Author Information
+author:
+  name: Anastasiia Breskina
+  email: anastasia.breskina@gmail.com
+  bio: "Computer Vision & Machine Learning Researcher specializing in Computer Vision, ML, and Educational AI"
+  location: "Lisbon, Portugal"
+
+# Social Media & Academic Profiles
+social:
+  email: anastasia.breskina@gmail.com
+  github: asya-brs
+  linkedin: anastasiia-breskina
+  scholar: GwBTM6YAAAAJ
+  orcid: 0000-0002-3165-6788
+  scopus: 58861088900
+  twitter: asya_brs
+  researchgate: Anastasiia-Breskina
