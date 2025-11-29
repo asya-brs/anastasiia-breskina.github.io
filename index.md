@@ -1,6 +1,4 @@
-# Anastasiia Breskina
-
-**Research Interests:** CV • ML • Human-Centered AI • Synthetic Data Generation • Educational AI & Proctoring Systems
+**Research Interests:** Human-Centered AI • Computer Vision • Real-World & Synthetic Dataset Development • Educational AI & Proctoring Systems
 
 [Google Scholar](https://scholar.google.com/citations?user=GwBTM6YAAAAJ) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=58861088900) | [ORCID](https://orcid.org/0000-0002-3165-6788) | [GitHub](https://github.com/asya-brs) | [LinkedIn](https://www.linkedin.com/in/anastasiia-breskina) | [📧](anastasia.breskina@gmail.com)
 
