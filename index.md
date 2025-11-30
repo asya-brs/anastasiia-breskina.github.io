@@ -21,7 +21,7 @@ automated online proctoring systems](https://link.springer.com/chapter/10.1007/9
 - [Rozrobka avtomatyzovanoi systemy onlain proktorynhu [Development of an automated online proctoring system]](https://doi.org/10.15276/imms.v13.no1-2.180) // Informatics and mathematical methods in simulation. — 2023. — No. 13. — P. 180—189
 
 ### Conference Presentations
-- [Data handling in ai-based proctoring systems and strategies for enhancement](https://www.researchgate.net/publication/388220531_Data_handling_in_ai-based_proctoring_systems_and_strategies_for_enhancement) / Anastasiia Breskina, Svitlana Antoshchuk // Isdmci’2024: intellectual systems for decision making and problems of computational intelligence : XX International Scientific Internet Conference, Usti nad Labem, Khmelnitskyi, 20 June 2024
+- [Data handling in ai-based proctoring systems and strategies for enhancement](https://www.researchgate.net/publication/388220531_Data_handling_in_ai-based_proctoring_systems_and_strategies_for_enhancement) // Isdmci’2024: intellectual systems for decision making and problems of computational intelligence : XX International Scientific Internet Conference, Usti nad Labem, Khmelnitskyi, 20 June 2024
 - [Human action analysis in automated online proctoring systems](http://dspace.opu.ua/jspui/bitstream/123456789/14167/1/MIT2023-%D0%A1%D0%B8%D1%87%D0%BA%D0%BE%D0%B2.pdf) // Modern information technology 2023, Odesa, 18 May 2023. — Odesa, 2023. — P. 53—55.
 
 ---
